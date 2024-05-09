@@ -74,8 +74,6 @@ Medical is a full-stack web application that allows the user to manage a medical
 
 </br></br> 3. Login to the app:
 
--   if you checked `DatabaseSeeder.php` ,as you will notice that 4 users has been created :
-
 | role      | email                       | password |
 | --------- | --------------------------- | -------- |
 | Admin     | admin@gmail.com             | 123456   |
