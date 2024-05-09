@@ -71,7 +71,6 @@ Medical is a full-stack web application that allows the user to manage a medical
         ```bash
         php artisan db:seed
         ```
-        > check `database/seeders/DatabaseSeeder.php` for details.
 
 </br></br> 3. Login to the app:
 
